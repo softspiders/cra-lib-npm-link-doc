@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *cra-npm-link*
+# *cra-npm-link-doc*
 
 Instruction for the cooperative development of *CRA* and the dependent library
 
