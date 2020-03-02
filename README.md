@@ -13,12 +13,6 @@ UNDER DEVELOPMENT
 - library
 - npm-link
 
-## Requirements
-
-* [*create-react-app*](https://facebook.github.io/create-react-app/)
-* [*Node*](https://nodejs.org/en/download/package-manager/)
-
-
 ## Author
 
 [remitot](https://github.com/remitot)
