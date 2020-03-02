@@ -9,6 +9,7 @@ UNDER DEVELOPMENT
 ## Feature tags
 
 - create-react-app
+- document
 - library
 - npm-link
 
