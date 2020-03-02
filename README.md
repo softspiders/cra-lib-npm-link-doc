@@ -1,21 +1,16 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *cra-starter*
+# *cra-npm-link*
 
-Minimalistic [*Create React App*](https://github.com/facebook/create-react-app) starter
+Instruction for the cooperative development of *CRA* and the dependent library
 
 UNDER DEVELOPMENT
 
 ## Feature tags
 
 - create-react-app
-- starter
-- template
-
-## Direct descendants - also by code
-
-- [+*maven*, *war*](https://github.com/softspiders/cra-maven-war-starter)
-- [+*ie11*](https://github.com/softspiders/cra-ie11-starter)
+- library
+- npm-link
 
 ## Requirements
 
@@ -25,7 +20,7 @@ UNDER DEVELOPMENT
 
 ## Author
 
-[BorisovAV](https://github.com/BorisovAV)
+[remitot](https://github.com/remitot)
 
 ### License
 
