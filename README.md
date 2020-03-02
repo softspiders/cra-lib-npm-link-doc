@@ -2,7 +2,7 @@
 
 # *cra-npm-link-doc*
 
-Instruction for the cooperative development of *CRA* and the dependent library
+The instruction for cooperative development of *CRA* and dependent library
 
 UNDER DEVELOPMENT
 
