@@ -8,7 +8,6 @@ UNDER DEVELOPMENT
 
 ## Feature tags
 
-- javascript
 - document
 - javascript
 - library
