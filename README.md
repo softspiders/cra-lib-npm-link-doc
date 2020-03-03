@@ -8,6 +8,7 @@ UNDER DEVELOPMENT
 
 ## Feature tags
 
+- app
 - document
 - javascript
 - library
