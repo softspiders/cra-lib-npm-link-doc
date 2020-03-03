@@ -8,7 +8,7 @@ UNDER DEVELOPMENT
 
 ## Feature tags
 
-- create-react-app
+- javascript
 - document
 - javascript
 - library
