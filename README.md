@@ -1,6 +1,6 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *js-lib-npm-link-doc*
+# *js-lib-npmlink-doc*
 
 The instruction for cooperative development of *CRA* and dependent library
 
