@@ -2,7 +2,7 @@
 
 # *js-lib-npmlink-doc*
 
-The instruction for cooperative development of *CRA* and dependent library
+The instruction for cooperative development of javascript-app and dependent library
 
 UNDER DEVELOPMENT
 
