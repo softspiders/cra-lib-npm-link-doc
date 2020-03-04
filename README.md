@@ -1,10 +1,9 @@
 [SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
-# *js-lib-npmlink-doc*
+# *js-npmlink-doc*
 
 The instruction for cooperative development of javascript-app and dependent library
-
-UNDER DEVELOPMENT
+https://github.com/softspiders/js-npmlink-doc/main.md
 
 ## Feature tags
 
