@@ -3,6 +3,7 @@
 # *js-npmlink-doc*
 
 The instruction for cooperative development of javascript-app and dependent library
+
 https://github.com/softspiders/js-npmlink-doc/blob/master/main.md
 
 ## Feature tags
